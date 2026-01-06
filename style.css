@@ -45,6 +45,12 @@ body{
     font-weight: 500;
     margin-bottom: 20px;
 }
+.cta-text {
+    color: #b0b0b0;
+    font-size: 14px;
+    margin-top: 24px;
+    text-align: center;
+}
 .social-links{
     display: flex;
     flex-direction: column;
@@ -77,4 +83,5 @@ body{
     .name{
         font-size: 24px;
     }
+
 }
